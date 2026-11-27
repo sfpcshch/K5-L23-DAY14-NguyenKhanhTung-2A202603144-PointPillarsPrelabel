@@ -1,0 +1,13 @@
+file,job_id,canvas_clicks,shortcut_keys,median_click_gap_ms,mean_click_dist_px,keyboard_ratio,active_span_s,top_keys
+seg01_d14-telemetry-job24-1795751991235.json,24,1,2,,,0.67,13,Ctrl+s×1 F12×1
+seg02_d14-telemetry-job24-1795752486375.json,24,47,5,1550,134,0.1,483,Delete×4 F12×1
+seg03_d14-telemetry-job24-1795753451526.json,24,193,14,1010,121,0.07,949,Delete×8 n×1 Ctrl+z×1 Escape×1 Ctrl+c×1
+seg04_d14-telemetry-job24-1795754620861.json,24,399,20,1139,143,0.05,1152,Delete×8 Ctrl+v×3 F12×3 Ctrl+c×2 Ctrl+s×2
+seg05_d14-telemetry-job24-1795755195153.json,24,209,9,1207,138,0.04,567,Delete×3 F12×2 n×2 Ctrl+s×1 Ctrl+j×1
+seg06_d14-telemetry-job24-1795755494589.json,24,100,8,1365,154,0.07,289,Ctrl+s×4 Ctrl+c×1 Ctrl+v×1 F11×1 F12×1
+seg07_d14-telemetry-job24-1795755989584.json,24,139,12,1410,153,0.08,324,Ctrl+s×5 Ctrl+c×2 Ctrl+v×2 Delete×1 Ctrl+z×1
+seg08_d14-telemetry-job24-1795756197433.json,24,89,9,1429,175,0.09,194,Ctrl+s×4 Ctrl+c×2 Ctrl+v×2 F12×1
+seg09_d14-telemetry-job24-1795756529121.json,24,184,20,1166,161,0.1,324,Ctrl+s×7 Ctrl+v×5 Ctrl+c×4 F12×2 Delete×1
+seg10_d14-telemetry-job24-1795756638925.json,24,75,9,895,134,0.11,95,Delete×9
+seg11_d14-telemetry-job24-1795757392667.json,24,297,17,1266,111,0.05,746,Delete×7 Ctrl+s×3 Ctrl+c×2 Ctrl+v×2 Ctrl+z×1
+FULL_DEDUP (11 checkpoints),24,1733,125,1199,139,0.07,5495,Delete×41 Ctrl+s×27 Ctrl+v×16 F12×14 Ctrl+c×14
